@@ -8,7 +8,14 @@ h1 {
 }
 
 p {
+  color:black
   font-family: verdana;
   font-size: 20px;
+  font stsyle:italic;
+  font weight:bold;
+  text decoration: wavyunderline;
 }
 
+<a> element {
+  
+    
